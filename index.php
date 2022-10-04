@@ -33,6 +33,13 @@ color: #FFFFFF;
     <p>Maximum count is 20 </p> 
 </body>
 <body>
+<form action="index.php">
+phone: <input type="htmlspecialchars" name="phone"><br>
+count: <input type="htmlspecialchars" name="count"><br>
+<input type="submit">
+</form>
+</body>
+<body>
 <p>⁪</p>
 </body>
 <body>
