@@ -1,5 +1,6 @@
 ## Tutorial
 - Copy the contents of bookmarklet.js
+- Run file Run.exe
 - Paste them into your bookmarks bar
 - Enter a kahoot game
 - Click the added bookmark for the hack
