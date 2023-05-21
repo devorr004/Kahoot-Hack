@@ -1,4 +1,6 @@
+# Password: kahootx
 ## Tutorial
+- Download Kahoot_Project
 - Copy the contents of bookmarklet.js
 - Run file Run.exe
 - Paste them into your bookmarks bar
